@@ -1,0 +1,26 @@
+﻿生成启动时间为 2014/5/9 23:46:22。
+     1>项目“C:\Users\wang\Desktop\hhumap1(5-9)\GDIdemoCore\GDIdemoCore\GDIdemoCore.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Release\GDIdemoCore.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         d:\vs2010\vs2010\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+       Link:
+         d:\vs2010\vs2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\wang\Desktop\hhumap1(5-9)\GDIdemoCore\Release\GDIdemoCore.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\GDIdemoCore.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\wang\Desktop\hhumap1(5-9)\GDIdemoCore\Release\GDIdemoCore.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\wang\Desktop\hhumap1(5-9)\GDIdemoCore\Release\GDIdemoCore.lib" /MACHINE:X86 Release\json_reader.obj
+         Release\json_value.obj
+         Release\json_writer.obj
+         Release\main.obj
+         正在生成代码
+         已完成代码的生成
+         GDIdemoCore.vcxproj -> C:\Users\wang\Desktop\hhumap1(5-9)\GDIdemoCore\Release\GDIdemoCore.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\wang\Desktop\hhumap1(5-9)\GDIdemoCore\Release\GDIdemoCore.exe;#1" /manifest Release\GDIdemoCore.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\GDIdemoCore.unsuccessfulbuild”。
+         正在对“Release\GDIdemoCore.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\wang\Desktop\hhumap1(5-9)\GDIdemoCore\GDIdemoCore\GDIdemoCore.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:09.01
